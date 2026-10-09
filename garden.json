@@ -1,0 +1,13 @@
+{
+    "plants": [
+        {
+            "color": "#ff7f50",
+            "minutes": 1
+        },
+        {
+            "color": "#a29bfe",
+            "flower": "Tulip",
+            "minutes": 1
+        }
+    ]
+}
